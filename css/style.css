@@ -42,7 +42,20 @@ main {
     z-index: 1;
     position: absolute;
     left: -20%;
-    top: -5%;
+    top: -1%;
+}
+.alterar {
+    margin: 2em 0;
+    width: 200%;
+    background: rgba(0,0,0,0.6);
+    color: #FFFFFF; 
+}
+
+.botoes {
+   position: relative;
+   right: 5%;
+   bottom: 10%;
+   display: flex;
 }
 
 .titulo {
